@@ -59,6 +59,7 @@ want to be able to update it and add text.
 - Hosting solution with guaranteed uptime, regular backups, and scalability options.
 
 ## Instructions
-- Navigate to the directory where your solution file (solutionFile.sln) is located:
-- dotnet build solutionFile.sln
-- dotnet run
+- Download C# and C# Dev Kit in VS Code Extensions
+- Download .NET SDK 8.0.0 for your OS
+- Create a trusted security certificate
+- Run and debug
