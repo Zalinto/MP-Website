@@ -23,6 +23,21 @@ namespace MP_Microtia_Website.Controllers
             return View();
         }
 
+        public IActionResult Differences()
+        {
+            return View();
+        }
+        public IActionResult Options()
+        {
+            return View();
+        }
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
