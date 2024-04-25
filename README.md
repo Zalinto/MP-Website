@@ -1,6 +1,4 @@
 # MP-Microtia-Website
-This is a website for Dr. Miles Pfaff to help better inform people about Microtia and Ear Surgery
-
 ## Purpose
 To develop a comprehensive website dedicated to providing information and support for individuals
 seeking reconstruction for microtia and other ear-related surgeries. The site will aim to educate visitors
